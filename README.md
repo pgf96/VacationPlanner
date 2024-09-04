@@ -24,4 +24,4 @@ The application helps organize details and activities for a vacation. Users can 
 - **Save Excursion:** Select "Save Excursion" to save any changes and be brought to the trip information screen.
 - **Delete Excursion:** Select "Delete Excursion" and be brought back to the trip information screen.
 ## Android Version
-The signed apk works with devices using android 8.0 (Oreo) or above.
+The signed apk works with devices using android 8.0 (Oreo) or above. 
