@@ -2,7 +2,6 @@
 ## Purpose
 The application helps organize details and activities for a vacation. Users can manage their vacations by including important details like destination, place of stay, dates, and excursions. Additionally, they can set alerts to be notified when a vacation is starting or ending, as well as when an excursion is beginning. Users also have the added function to share a report summary of their vacation through various communication channels (e.g. sms, email, etc.,).
 
-FOR SPECIFIC TASK INSTRUCTIONS AND REQUIREMENTS FOR THIS ASSESSMENT, PLEASE REFER TO THE COURSE PAGE.
 ## Navigating the Application
 ### Vacations
 - **View Vacations:** This screen will automatically populate existing vacations. If available, users can select a vacation to move to a comprehensive details screen.
@@ -26,6 +25,3 @@ FOR SPECIFIC TASK INSTRUCTIONS AND REQUIREMENTS FOR THIS ASSESSMENT, PLEASE REFE
 - **Delete Excursion:** Select "Delete Excursion" and be brought back to the trip information screen.
 ## Android Version
 The signed apk works with devices using android 8.0 (Oreo) or above.
-
-## GitLab Link
-https://gitlab.com/wgu-gitlab-environment/student-repos/pfeli14/d308-mobile-application-development-android/-/tree/working_branch?ref_type=heads
